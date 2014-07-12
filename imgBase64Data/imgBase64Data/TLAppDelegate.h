@@ -2,9 +2,8 @@
 //  TLAppDelegate.h
 //  imgBase64Data
 //
-//  Created by DEV_IPHONE_01 on 02/07/14.
-//  Copyright (c) 2014 rossitek. All rights reserved.
-//
+//  Created by Tilak_G  on 02/07/14.
+
 
 #import <UIKit/UIKit.h>
 
