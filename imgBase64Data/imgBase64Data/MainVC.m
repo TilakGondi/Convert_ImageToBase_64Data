@@ -1,10 +1,9 @@
 //
 //  MainVC.m
 //  imgBase64Data
-//
+
 //  Created by Tilak_G  on 02/07/14.
 
-//
 
 #import "MainVC.h"
 #import <MobileCoreServices/MobileCoreServices.h>
